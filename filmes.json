@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Matrix",
+    "anoDeLancamento": 1993,
+    "incluidoNoPlano": false,
+    "somaDasAvaliacoes": 0.0,
+    "totalDeAvaliacoes": 0,
+    "duracaoEmMinutos": 60
+  },
+  {
+    "nome": "Mr. Robot",
+    "anoDeLancamento": 2015,
+    "incluidoNoPlano": false,
+    "somaDasAvaliacoes": 0.0,
+    "totalDeAvaliacoes": 0,
+    "duracaoEmMinutos": 49
+  }
+]
